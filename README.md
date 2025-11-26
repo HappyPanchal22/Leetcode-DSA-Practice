@@ -14,7 +14,7 @@ Collection of LeetCode solutions (Java)
 
 | Topic | Problems Solved | Status |
 |-------|----------------|--------|
-| Arrays & Hashing | 0 | 🔄 |
+| Arrays & Hashing | 3 | 🔄 |
 | Two Pointers | 0 | 🔄 |
 | Sliding Window | 0 | 🔄 |
 | Linked List | 0 | 🔄 |
