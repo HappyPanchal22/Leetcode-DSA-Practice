@@ -1,3 +1,12 @@
+/**
+ * 169. Majority Element
+ * Difficulty: Easy
+ * 
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
+ * 
+ * Tags: Array, Hash Table, Divide and Conquer, Sorting, Counting
+ */
 //Boyer-Moore Voting Algorithm - Optimal Solution
 class Solution {
     public int majorityElement(int[] nums) {
