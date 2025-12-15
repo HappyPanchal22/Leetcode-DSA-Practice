@@ -14,11 +14,11 @@ Collection of LeetCode solutions (Java)
 
 | Topic | Problems Solved | Status |
 |-------|----------------|--------|
-| Arrays & Hashing | 12 | 🔄 |
+| Arrays & Hashing | 13 | 🔄 |
 | Two Pointers | 2 | 🔄 |
 | Intervals | 4 | 🔄 |
 | Sliding Window | 0 | 🔄 |
-| Linked List | 0 | 🔄 |
+| Linked List | 8 | 🔄 |
 | Stack | 5 | 🔄 |
 | Binary Search | 0 | 🔄 |
 | Dynamic Programming | 0 | 🔄 |
