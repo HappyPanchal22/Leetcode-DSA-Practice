@@ -20,7 +20,7 @@ Collection of LeetCode solutions (Java)
 | Sliding Window | 0 | 🔄 |
 | Linked List | 8 | 🔄 |
 | Stack | 5 | 🔄 |
-| Trees | 3 | 🔄 |
+| Trees | 14 | 🔄 |
 | Dynamic Programming | 0 | 🔄 |
 | Backtracking | 0 | 🔄 |
 | Graphs | 0 | 🔄 |
